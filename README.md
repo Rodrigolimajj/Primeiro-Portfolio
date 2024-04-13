@@ -1,1 +1,1 @@
-Primeiro portfólio utilizando HTML e CSS.
+Primeiro portfólio pessoal utilizando HTML e CSS.
